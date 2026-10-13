@@ -1,7 +1,7 @@
 faers-cdk46-breast-cancer-safety
 # Comparative Safety Signals of CDK4/6 Inhibitors in Breast Cancer: Palbociclib, Ribociclib, Abemaciclib - A 10-Year FAERS Analysis (2015-2024)
 
-Author:IFRAH 
+Author:  IFRAH 
 ORCID: https://orcid.org/0009-0005-0033-4662
 Focus:Breast Cancer Pharmacovigilance, CDK4/6 Inhibitor Safety, Real-World Evidence
 
