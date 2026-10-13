@@ -10,6 +10,8 @@ faers-cdk46-breast-cancer-safety
 **Focus:** Breast Cancer Pharmacovigilance, CDK4/6 Inhibitor Safety, Real-World Evidence
 
 
+**DOI:**   https://doi.org/10.5281/zenodo.23337563
+
 
 ## Background
 CDK4/6 inhibitors (Palbociclib, Ribociclib, Abemaciclib) are standard for HR+/HER2- metastatic breast cancer, but real-world adverse drug reaction signals remain under-reported.
